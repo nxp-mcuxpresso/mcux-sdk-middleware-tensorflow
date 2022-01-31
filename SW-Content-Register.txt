@@ -1,0 +1,78 @@
+TensorFlow Lite            Name: TensorFlow Lite for Microcontrollers        
+                           Version: 2.4.1                                    
+                           Outgoing License: Apache-2.0                      
+                           License File: LICENSE                             
+                           Format: source code                               
+                           Description: Software library for running machine 
+                           learning models on mobile and embedded devices    
+                           Location: ./                                      
+                           Origin: See AUTHORS                               
+                           Url: https://github.com/tensorflow/tensorflow     
+
+FFT2D                      Name: FFT2D                                       
+                           Version: NA                                       
+                           Outgoing License: Public Domain                   
+                           License File: third_party/fft2d/LICENSE          
+                           Format: source code                               
+                           Description: FFT package in C                     
+                           Location: third_party/fft2d                       
+                           Origin: Takuya Ooura                              
+                           Url:                                              
+                           http://www.kurims.kyoto-u.ac.jp/~ooura/fft.html   
+
+FlatBuffers                Name: FlatBuffers                                 
+                           Version: 1.12.0 (commit dca1252)                  
+                           Outgoing License: Apache-2.0                      
+                           License File: third_party/flatbuffers/LICENSE.txt 
+                           Format: source code                               
+                           Description: Cross platform serialization library 
+                           Location: third_party/flatbuffers                 
+                           Origin: https://google.github.io/flatbuffers      
+                           Url: https://github.com/google/flatbuffers        
+
+gemmlowp                   Name: gemmlowp                                    
+                           Version: NA (commit 719139c)                      
+                           Outgoing License: Apache-2.0                      
+                           License File: third_party/gemmlowp/LICENSE        
+                           Format: source code                               
+                           Description: A small self-contained low-precision 
+                           GEMM library                                      
+                           Location: third_party/gemmlowp                    
+                           Origin: See third_party/gemmlowp/AUTHORS          
+                           Url: https://github.com/google/gemmlowp           
+
+ruy                        Name: ruy                                         
+                           Version: NA (commit 5bb02fb)                      
+                           Outgoing License: Apache-2.0                      
+                           License File: third_party/ruy/LICENSE             
+                           Format: source code                               
+                           Description: The ruy matrix multiplication library
+                           Location: third_party/ruy    
+                           Origin: Google, Inc.                              
+                           Url: https://github.com/google/ruy                
+
+tensorflow_lite_micro_cmsisName: CMSIS-NN library                            
+_nn                        Version: 1.3.0 (commit 01f5b32, CMSIS version     
+                           5.7.0)                                            
+                           Outgoing License: Apache-2.0                      
+                           License File: hird_party/cmsis/LICENSE.txt        
+                           Format: source code                               
+                           Description: A neural network kernels library for 
+                           Cortex-M cores from ARM                           
+                           Location: third_party/cmsis  
+                           Origin: ARM                                       
+                           Url: https://github.com/ARM-software/CMSIS_5      
+
+tensorflow_lite_micro_xtensName: Cadence HiFi4 Neural Network (NN) Library   
+a_nn                       Version: 2.2.0                                    
+                           Outgoing License: LA_OPT_NXP_Software_License -   
+                           Additional distribution license granted - License 
+                           in Section 2.3 applies                            
+                           License File: LA_OPT_NXP_Software_License.txt     
+                           Format: source code                               
+                           Description: A neural network kernels library for 
+                           Xtensa cores from Cadence                         
+                           Location: third_party/xa_nnlib_hifi4,             
+                           tensorflow/lite/micro/kernels/xtensa_hifi         
+                           Origin: Cadence Design Systems, Inc. (proprietary)
+                           Url: https://github.com/foss-xtensa/nnlib-hifi4   
