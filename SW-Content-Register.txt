@@ -1,10 +1,10 @@
 TensorFlow Lite            Name: TensorFlow Lite for Microcontrollers        
-                           Version: 2.4.1                                    
+                           Version: 2.6.0                                    
                            Outgoing License: Apache-2.0                      
                            License File: LICENSE                             
                            Format: source code                               
                            Description: Software library for running machine 
-                           learning models on mobile and embedded devices    
+                           learning models on embedded devices    
                            Location: ./                                      
                            Origin: See AUTHORS                               
                            Url: https://github.com/tensorflow/tensorflow     
@@ -42,7 +42,7 @@ gemmlowp                   Name: gemmlowp
                            Url: https://github.com/google/gemmlowp           
 
 ruy                        Name: ruy                                         
-                           Version: NA (commit 5bb02fb)                      
+                           Version: NA (commit e6c1b8d)                      
                            Outgoing License: Apache-2.0                      
                            License File: third_party/ruy/LICENSE             
                            Format: source code                               
@@ -52,8 +52,8 @@ ruy                        Name: ruy
                            Url: https://github.com/google/ruy                
 
 tensorflow_lite_micro_cmsisName: CMSIS-NN library                            
-_nn                        Version: 1.3.0 (commit 01f5b32, CMSIS version     
-                           5.7.0)                                            
+_nn                        Version: 3.0.0 (commit 59d6249, CMSIS version     
+                           5.8.0)                                            
                            Outgoing License: Apache-2.0                      
                            License File: hird_party/cmsis/LICENSE.txt        
                            Format: source code                               
@@ -64,7 +64,7 @@ _nn                        Version: 1.3.0 (commit 01f5b32, CMSIS version
                            Url: https://github.com/ARM-software/CMSIS_5      
 
 tensorflow_lite_micro_xtensName: Cadence HiFi4 Neural Network (NN) Library   
-a_nn                       Version: 2.2.0                                    
+a_nn                       Version: 2.4.1                                    
                            Outgoing License: LA_OPT_NXP_Software_License -   
                            Additional distribution license granted - License 
                            in Section 2.3 applies                            
